@@ -9,9 +9,6 @@ Welcome to **ARFaceFilterDemo**, an Android application that applies augmented r
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - Real-time face detection using Google ML Kit.
@@ -32,8 +29,8 @@ Before running the project, ensure you have the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ARFaceFilterDemo.git
-cd ARFaceFilterDemo
+git clone https://github.com/Chuyen-d-Mobile-va-Pervasive-Computing/Face_Filter.git
+cd Face_Filter
 ```
 
 ### 2. Open in Android Studio
@@ -100,16 +97,3 @@ ARFaceFilterDemo/
 └── README.md                               # This file
 ```
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or feedback, reach out to [yourusername@example.com](mailto:yourusername@example.com) or open an issue on the [GitHub repository](https://github.com/yourusername/ARFaceFilterDemo).
