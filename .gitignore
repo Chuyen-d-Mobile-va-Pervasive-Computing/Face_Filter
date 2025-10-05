@@ -1,15 +1,95 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+build/
+.gradle/
+*.log
+.gradle/dependencies
+.gradle/buildOutputCleanup/
+
+# Local configuration file (sdk path, etc)
 local.properties
+
+# Proguard
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.gradle/
+.idea/httpRequests/
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries/
+.idea/misc.xml
+.idea/caches/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/inspectionProfiles/
+
+# Emulator
+*.ini
+
+# Keystore files
+*.jks
+*.keystore
+
+# Navigation and other UI test files
+.navigation/
+
+# Android Profiler
+capture/
+external.profiler_config
+
+# Crashlytics
+com_crashlytics_exported_report.json
+crashlytics.properties
+crashlytics-build.properties
+
+# Test results
+*.test
+test-results/
+
+# NDK
+obj/
+
+# IntelliJ
+*.ipr
+*.iws
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Custom rules (optional)
+# Thêm các file hoặc thư mục cụ thể bạn muốn bỏ qua
